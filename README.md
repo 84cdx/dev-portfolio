@@ -3,7 +3,6 @@
 A clean, minimalist, single‑page portfolio built with **Next.js 15 (App Router)**, **TypeScript**, and **Tailwind CSS**. It showcases my work as a Media Informatics graduate and web developer.
 
 ## Features
-- Fully English UI (all German text translated)
 - Responsive layout with a subtle dot‑matrix background
 - Projects, experience, education, skills, and creative‑work sections
 - Dark‑mode ready with a premium color palette (`#630134` primary, `#fc0384` accent)
