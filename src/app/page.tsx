@@ -584,6 +584,7 @@ export default function Home() {
               <div className="tag-container">
                 <span className="tag">React</span>
                 <span className="tag">Next.js</span>
+                <span className="tag">Angular</span>
                 <span className="tag">Node.js</span>
                 <span className="tag">Tailwind CSS</span>
                 <span className="tag">MongoDB</span>
